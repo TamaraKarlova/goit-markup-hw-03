@@ -195,9 +195,11 @@ margin-bottom: 8px
 }
 .footer {
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .footer-text {
     color: #F4F4FD;
+    max-width: 264px;
 }
 .studio-footer {
     color: #f4f4fd;
