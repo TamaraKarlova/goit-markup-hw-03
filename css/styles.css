@@ -263,3 +263,11 @@ width: calc((100% - 72px) / 4);
 .our-team-details {
     padding: 32px 0
 }
+.logo-footer {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+.section-four {
+    padding-top: 120px;
+        padding-bottom: 120px;
+}
